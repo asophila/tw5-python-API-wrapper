@@ -53,3 +53,4 @@
    # IDEs
    .vscode/
    .idea/
+   .ipynb_checkpoints/
